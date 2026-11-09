@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>Musik </title></head>
+<body style="background:black; color:white; text-align:center; padding-top:100px">
+<h1>Musik Gue</h1>
+<p>Putar Lagu</p>
+<audio controls src="lagu1.mp3"></audio>
+</body>
+</html>
